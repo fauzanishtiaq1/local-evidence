@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "local-evidence: Offline citation-preserving evidence search"
+message: "If local-evidence helps your work, please cite this software."
+type: software
+authors:
+  - family-names: Ishtiaq
+    given-names: Fauzan
+    orcid: https://orcid.org/0009-0006-6841-1469
+version: 0.1.0
+date-released: 2026-09-28
+license: MIT
+repository-code: https://github.com/fauzanishtiaq1/local-evidence

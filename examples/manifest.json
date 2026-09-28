@@ -1,0 +1,12 @@
+{
+  "queries": [
+    {"query": "cache invalidation", "relevant": ["cache.md"]},
+    {"query": "retry backoff", "relevant": ["reliability.md"]},
+    {"query": "schema migration", "relevant": ["database.md"]},
+    {"query": "vector index", "relevant": ["retrieval.md"]},
+    {"query": "latency budget", "relevant": ["observability.md"]},
+    {"query": "access token rotation", "relevant": ["security.md"]},
+    {"query": "calibration drift", "relevant": ["ml-operations.md"]},
+    {"query": "stream checkpoint", "relevant": ["pipelines.md"]}
+  ]
+}

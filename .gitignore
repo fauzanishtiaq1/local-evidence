@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+index/
+benchmarks/ci-results.json
+*.jsonl
+private/
+
+.tmp-dist-install/
+benchmarks/ci-results.json
+
+.tmp*/
